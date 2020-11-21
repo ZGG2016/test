@@ -1,4 +1,4 @@
-<font color=red>testtesttesttest</font>
+<font color=#FF0000>testtesttesttest</font>
 <font color=Blue>我是蓝色</font>
 
 
